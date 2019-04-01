@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/gangasinghnamdhari/Documents/ReactNativeProjects/ReduxTest/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h

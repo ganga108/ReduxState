@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8D4E3963-B3B7-4964-B7A4-DFED8F3B3D15</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8D4E3963-B3B7-4964-B7A4-DFED8F3B3D15.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReduxTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReduxTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReduxTest with scheme ReduxTest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575521013.45013106</real>
+			<key>timeStoppedRecording</key>
+			<real>575521014.911605</real>
+			<key>title</key>
+			<string>Building project ReduxTest with scheme ReduxTest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8D4E3963-B3B7-4964-B7A4-DFED8F3B3D15</string>
+		</dict>
+		<key>D833CEDF-0C7A-461E-A93C-DA21C9785285</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D833CEDF-0C7A-461E-A93C-DA21C9785285.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReduxTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReduxTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReduxTest with scheme ReduxTest and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575520889.69771004</real>
+			<key>timeStoppedRecording</key>
+			<real>575520891.199265</real>
+			<key>title</key>
+			<string>Building project ReduxTest with scheme ReduxTest and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D833CEDF-0C7A-461E-A93C-DA21C9785285</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
